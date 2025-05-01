@@ -10,8 +10,9 @@ This repository contains my individual contributions to the group project, focus
 
 ## Status
 - Market Research: Completed ✅
-- Requirements List: In Progress 🛠️
-- CAD Modeling: Started 🚀
+- Requirements List: Completed ✅
+- Black Box and Functions Structre: In Progress 🛠️
+- CAD Modeling: not yet 🚀
 
 ## License
 Private Academic Project
